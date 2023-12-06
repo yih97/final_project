@@ -1,4 +1,6 @@
 # WE CAN DO!
+사이트 주소 : <a href="http://emotiondiary.kro.kr:8805">11:57 PM</a>
+
 ### 🌍 프로젝트명 : 11:57PM
 - 👨‍👩‍👧‍👦 팀원 : 오도윤, 고병욱(Data) : 데이터 크롤링, 데이터 전처리(명언, 음악, AI 훈련용 데이터셋)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;윤이현, 정범준(AI) : Bert를 활용한 영어, 한글 감정 분석 모델 생성<br>
@@ -34,7 +36,6 @@
 ### 🏗️ 서버 및 DB의 구조
 
 - 서버 : 도커를 활용한 MYSQL
-  - 외부 도메인 : <a href="http://emotiondiary.kro.kr:8805">11:57 PM</a>
 
 - 명언 및 음악추천을 위한 DataBase 구조<br>
 ![wecando - writen](https://github.com/itsc-ai/wecando/assets/141305320/534c2c77-ba20-4c82-a09e-1300df2575ed)
